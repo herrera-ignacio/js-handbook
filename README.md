@@ -2,10 +2,13 @@
 
 ## Foundations
 
-* [What is Node.js?](glossary/node)
+* [What is Node.js?](glossary/what-is-node)
   * Asynchronous
   * Event Driven
   * Multi-threading & Multi-processing
+* [Callback Pattern](glossary/callback)
+* [Blocking vs Non-Blocking](glossary/non-blocking)
+* [Concurrency and Throughput](glossary/concurrency-and-throughput)
 
 ## Resources
 
